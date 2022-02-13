@@ -16,4 +16,3 @@ def hello
 end
 ```
 
-![エビフライトライアングル](src/routes/blog/ebi.jpeg)
